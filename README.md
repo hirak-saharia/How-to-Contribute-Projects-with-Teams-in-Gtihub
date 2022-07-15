@@ -10,12 +10,12 @@ To start contributing, follow the below instructions:
 
    Run command `git init`
 
-4. Fork the [repository](https://github.com/Amit366/FunwithPhysics).
+4. Fork the [repository](https://github.com/hirak-saharia/How-to-Contribute-Projects-with-Teams-in-Gtihub.git).
 
 5. Clone your forked repository of project.
 
 ```git clone
-git clone https://github.com/<your_username>/FunwithPhysics.git
+git clone https://github.com/<your_username>/How-to-Contribute-Projects-with-Teams-in-Gtihub.git
 ```
 
 6. Navigate to the project directory.
@@ -27,7 +27,7 @@ cd FunwithPhysics
 7. Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/Amit366/FunwithPhysics.git
+git remote add upstream https://github.com/hirak-saharia/How-to-Contribute-Projects-with-Teams-in-Gtihub.git
 ```
 
 8. Check the remotes for this repository.
