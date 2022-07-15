@@ -21,7 +21,7 @@ git clone https://github.com/<your_username>/How-to-Contribute-Projects-with-Tea
 6. Navigate to the project directory.
 
 ```
-cd FunwithPhysics
+cd Project
 ```
 
 7. Add a reference(remote) to the original repository.
